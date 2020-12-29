@@ -1,0 +1,22 @@
+{
+  "name": "tldict",
+  "version": "1.0.0",
+  "description": "TLDB data dict",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janeDL/tldict.git"
+  },
+  "author": "Le Dai <dl123@mail.ustc.edu.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janeDL/tldict/issues"
+  },
+  "homepage": "https://github.com/janeDL/tldict#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
